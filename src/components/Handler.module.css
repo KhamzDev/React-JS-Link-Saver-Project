@@ -1,0 +1,8 @@
+
+.container{
+    width: 100%;
+    height: 100vh;
+
+    display: flex;
+    background-color: hsl(220, 43%, 24%);
+}
